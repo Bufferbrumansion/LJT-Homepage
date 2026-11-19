@@ -5,8 +5,8 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : "Junteng Liu"
 description              : "Junteng Liu's academic portfolio"
-url                      : "https://Bufferbrumansion.github.io"
-baseurl                  : "/LJT-Homepage"
+url                      : "https://Bufferbrumansion.github.io/LJT-Homepage"
+baseurl                  : ""
 repository               : "Bufferbrumansion/LJT-Homepage"
 
 # Site Author
