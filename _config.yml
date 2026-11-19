@@ -11,7 +11,7 @@ repository               : "Bufferbrumansion/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           :
+  avatar           : "profile.svg"
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group"
